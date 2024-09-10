@@ -27,8 +27,7 @@ Code for simulating thixo-viscoplastic fluids using the SPH method.
      Adolfo Vazquez-Quesada.
      Emanuele Rossi
 
- Contact: a.vazquez-quesada@fisfun.uned.es
-          mellero@bcamath.org
+ Contact: a.vazquez-quesada@fisfun.uned.es, mellero@bcamath.org
 --------------------------------------------------------------------
 
 -------------------------- INSTALLATION -------------------------------
