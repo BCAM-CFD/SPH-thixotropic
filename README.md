@@ -1,4 +1,5 @@
 # SPH-thixotropic
+![alt text](https://github.com/BCAM-CFD/SPH-thixotropic/blob/main/thixotropic.png)
 Code for simulating thixo-viscoplastic fluids using the SPH method.
 
 ------------------ DESCRIPTION -------------------------------------
